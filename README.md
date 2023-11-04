@@ -1,4 +1,4 @@
-# Jira Worklogs Exporter
+# Jira Worklogs Exporter [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8QT94J)
 
 This project provides a Python script to export worklogs from Jira tickets to an Excel file. The tool was developed as a response to Jira's limitation where it doesn't allow the evaluation of individual worklogs without an additional plugin. This solution is catered to those who don't wish to rely on a paid plugin like Tempo.
 
@@ -75,5 +75,3 @@ python main.py
 \```
 
 After the script completes, you'll find a `worklogsYYYY-MM.xlsx` file in the directory with the exported worklogs.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8QT94J)
