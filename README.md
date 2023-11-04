@@ -75,3 +75,13 @@ python main.py
 \```
 
 After the script completes, you'll find a `worklogsYYYY-MM.xlsx` file in the directory with the exported worklogs.
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('thekroll', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#f45d22',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
